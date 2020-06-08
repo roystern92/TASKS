@@ -1,0 +1,6 @@
+[submodule "tasks_client"]
+	path = tasks_client
+	url = https://github.com/roystern92/tasks_client.git
+[submodule "tasks_server"]
+	path = tasks_server
+	url = https://github.com/roystern92/tasks_server.git
